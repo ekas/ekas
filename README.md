@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ekas Preet Singh</h1>
-<h3 align="center">A Self motivated Front End Developer. I always thrive to contribute and share my knowledge with others in any way possible. Working as a Front End Developer @Barco. Willing to do a lot Open source Contributions. And most important of all always looking forward to an effective engagement with JSLovers Community as a Chapter lead, Delhi @JSLovers</h3>
+<h3 align="center">A Self motivated Front End Developer. I always thrive to contribute and share my knowledge with others in any way possible. Studying Master's in Applied Computer Science from Schmalkalden University of Applied Sciences, Germany and Earlier was Working as a Front End Developer @Barco. Willing to do a lot Open source Contributions. And most important of all always looking forward to an effective engagement with JSLovers Community as a Chapter lead, Delhi @JSLovers</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekas" alt="ekas" /> </p>
 
